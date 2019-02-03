@@ -168,7 +168,7 @@
       <path>leia-1.3.10/zuki.pvr.hdhomerundvr-windows-x64-leia-1.3.10.6967.zip</path>
     </extension>
   </addon>
-  <addon id="pvr.hdhomerundvr" version="1.3.11" name="HDHomeRun DVR PVR Client" provider-name="Michael Brehm (djp952)">
+  <addon id="pvr.hdhomerundvr" version="1.3.12" name="HDHomeRun DVR PVR Client" provider-name="Michael Brehm (djp952)">
     <requires>
       <import addon="kodi.binary.global.main" version="1.0.14"/>
       <import addon="kodi.binary.global.gui" version="5.12.0"/>
@@ -178,11 +178,11 @@
     <extension point="xbmc.addon.metadata">
       <summary lang="en_GB">HDHomeRun DVR PVR Client</summary>
       <platform>android-aarch64</platform>
-      <size>924765</size>
-      <path>leia-1.3.11/zuki.pvr.hdhomerundvr-android-aarch64-leia-1.3.11.6972.zip</path>
+      <size>925073</size>
+      <path>leia-1.3.12/zuki.pvr.hdhomerundvr-android-aarch64-leia-1.3.12.6972.zip</path>
     </extension>
   </addon>
-  <addon id="pvr.hdhomerundvr" version="1.3.11" name="HDHomeRun DVR PVR Client" provider-name="Michael Brehm (djp952)">
+  <addon id="pvr.hdhomerundvr" version="1.3.12" name="HDHomeRun DVR PVR Client" provider-name="Michael Brehm (djp952)">
     <requires>
       <import addon="kodi.binary.global.main" version="1.0.14"/>
       <import addon="kodi.binary.global.gui" version="5.12.0"/>
@@ -192,11 +192,11 @@
     <extension point="xbmc.addon.metadata">
       <summary lang="en_GB">HDHomeRun DVR PVR Client</summary>
       <platform>android-armv7</platform>
-      <size>685010</size>
-      <path>leia-1.3.11/zuki.pvr.hdhomerundvr-android-arm-leia-1.3.11.6972.zip</path>
+      <size>685124</size>
+      <path>leia-1.3.12/zuki.pvr.hdhomerundvr-android-arm-leia-1.3.12.6972.zip</path>
     </extension>
   </addon>
-  <addon id="pvr.hdhomerundvr" version="1.3.11" name="HDHomeRun DVR PVR Client" provider-name="Michael Brehm (djp952)">
+  <addon id="pvr.hdhomerundvr" version="1.3.12" name="HDHomeRun DVR PVR Client" provider-name="Michael Brehm (djp952)">
     <requires>
       <import addon="kodi.binary.global.main" version="1.0.14"/>
       <import addon="kodi.binary.global.gui" version="5.12.0"/>
@@ -206,11 +206,11 @@
     <extension point="xbmc.addon.metadata">
       <summary lang="en_GB">HDHomeRun DVR PVR Client</summary>
       <platform>android-i686</platform>
-      <size>983149</size>
-      <path>leia-1.3.11/zuki.pvr.hdhomerundvr-android-x86-leia-1.3.11.6972.zip</path>
+      <size>982659</size>
+      <path>leia-1.3.12/zuki.pvr.hdhomerundvr-android-x86-leia-1.3.12.6972.zip</path>
     </extension>
   </addon>
-  <addon id="pvr.hdhomerundvr" version="1.3.11" name="HDHomeRun DVR PVR Client" provider-name="Michael Brehm (djp952)">
+  <addon id="pvr.hdhomerundvr" version="1.3.12" name="HDHomeRun DVR PVR Client" provider-name="Michael Brehm (djp952)">
     <requires>
       <import addon="kodi.binary.global.main" version="1.0.14"/>
       <import addon="kodi.binary.global.gui" version="5.12.0"/>
@@ -220,11 +220,11 @@
     <extension point="xbmc.addon.metadata">
       <summary lang="en_GB">HDHomeRun DVR PVR Client</summary>
       <platform>osx-x86_64</platform>
-      <size>763219</size>
-      <path>leia-1.3.11/zuki.pvr.hdhomerundvr-osx-x86_64-leia-1.3.11.6972.zip</path>
+      <size>763673</size>
+      <path>leia-1.3.12/zuki.pvr.hdhomerundvr-osx-x86_64-leia-1.3.12.6972.zip</path>
     </extension>
   </addon>
-  <addon id="pvr.hdhomerundvr" version="1.3.11" name="HDHomeRun DVR PVR Client" provider-name="Michael Brehm (djp952)">
+  <addon id="pvr.hdhomerundvr" version="1.3.12" name="HDHomeRun DVR PVR Client" provider-name="Michael Brehm (djp952)">
     <requires>
       <import addon="kodi.binary.global.main" version="1.0.14"/>
       <import addon="kodi.binary.global.gui" version="5.12.0"/>
@@ -234,11 +234,11 @@
     <extension point="xbmc.addon.metadata">
       <summary lang="en_GB">HDHomeRun DVR PVR Client</summary>
       <platform>windows-i686</platform>
-      <size>613956</size>
-      <path>leia-1.3.11/zuki.pvr.hdhomerundvr-windows-win32-leia-1.3.11.6972.zip</path>
+      <size>614222</size>
+      <path>leia-1.3.12/zuki.pvr.hdhomerundvr-windows-win32-leia-1.3.12.6972.zip</path>
     </extension>
   </addon>
-  <addon id="pvr.hdhomerundvr" version="1.3.11" name="HDHomeRun DVR PVR Client" provider-name="Michael Brehm (djp952)">
+  <addon id="pvr.hdhomerundvr" version="1.3.12" name="HDHomeRun DVR PVR Client" provider-name="Michael Brehm (djp952)">
     <requires>
       <import addon="kodi.binary.global.main" version="1.0.14"/>
       <import addon="kodi.binary.global.gui" version="5.12.0"/>
@@ -248,8 +248,8 @@
     <extension point="xbmc.addon.metadata">
       <summary lang="en_GB">HDHomeRun DVR PVR Client</summary>
       <platform>windows-x86_64</platform>
-      <size>704613</size>
-      <path>leia-1.3.11/zuki.pvr.hdhomerundvr-windows-x64-leia-1.3.11.6972.zip</path>
+      <size>704792</size>
+      <path>leia-1.3.12/zuki.pvr.hdhomerundvr-windows-x64-leia-1.3.12.6972.zip</path>
     </extension>
   </addon>
 </addons>
