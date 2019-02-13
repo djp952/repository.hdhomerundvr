@@ -254,3 +254,4 @@ paket-files/
 # Intermediate directories
 src/**/*.gz
 src/**/*.md5
+src/**/*.sha256
